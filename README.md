@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vengerova655
-- 👀 I’m interested in Music, Security and AI
+- 👀 I’m interested in Music, Internet Security and AI
 - 🌱 I’m currently learning C++
 
 <!---
